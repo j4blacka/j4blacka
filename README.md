@@ -1,2 +1,2 @@
 # j4blacka
-for gihub pages
+for github pages
